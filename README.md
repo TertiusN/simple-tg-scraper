@@ -18,7 +18,7 @@ This is a simple Telegram scraper that listens for new messages in your Telegram
 If you haven’t cloned your code yet, use the following command:
 
 ``bash
-git clone https://github.com/yourusername/your-repo.git
+git clone git@github.com:TertiusN/simple-tg-scraper.git
 cd your-repo`` 
 
 ### 2. Create a Virtual Environment
